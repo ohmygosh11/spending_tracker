@@ -179,7 +179,7 @@ fun SpendingList(
 ) {
     LazyColumn(
         modifier = modifier
-            .padding(start = 20.dp, end = 20.dp, bottom = 80.dp, top = 8.dp),
+            .padding(start = 20.dp, end = 20.dp, top = 8.dp),
         contentPadding = PaddingValues(top = 8.dp, bottom = 40.dp),
     ) {
         items(state.spendingList) { spending ->
