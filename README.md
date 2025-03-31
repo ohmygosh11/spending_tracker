@@ -7,9 +7,7 @@
   - **Spending:** Organize expenses by date, with options to add, edit, delete, and update spending records.
 <br>
 
-**App Interface Overview:******
-<br>
-This document provides an overview of some key interfaces of the application.
+****App Interface Overview:**** This document provides an overview of some key interfaces of the application.
 <br>
     - **Home Screen:** Displays the current balance and a list of expenses.
         <p align="center">
