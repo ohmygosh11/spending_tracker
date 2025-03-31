@@ -1,5 +1,9 @@
 **Technologies Used:** 
-  - Clean + MVI Architecture, Jetpack Compose, Kotlin Coroutine & Flow, Koin Dependency Injection, Room Database.
+  - Clean + MVI Architecture
+  - Jetpack Compose
+  - Kotlin Flow & Coroutine
+  - Koin Dependency Injection
+  - Room Database.
 <br>
     
 ****Key Features:****
