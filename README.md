@@ -7,8 +7,10 @@
 <br>
     
 ****Key Features:****
-  - **Balance:** Set an initial balance for tracking expenses.
-  - **Spending:** Organize expenses by date, with options to add, edit, delete, and update spending records.
+  - **Balance Management:** Set an initial balance to track expenses against available funds.
+  - **Spending Tracker:** Add, edit, delete, and update spending records seamlessly.
+  - **Expense Organization:** Categorize expenses by date for better financial tracking.
+  - **User-friendly Interface:** Simple UI for easy navigation and data entry.
 <br>
 
 ****App Interface Overview:****<br>
