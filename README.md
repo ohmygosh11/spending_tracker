@@ -1,14 +1,16 @@
 **Technologies Used:** 
   - Clean + MVI Architecture, Jetpack Compose, Kotlin Coroutine & Flow, Koin Dependency Injection, Room Database.
-
+<br>
     
 ****Key Features:****
   - **Balance:** Set an initial balance for tracking expenses.
   - **Spending:** Organize expenses by date, with options to add, edit, delete, and update spending records.
+<br>
 
-
-****App Interface Overview:****
+**App Interface Overview:******
+<br>
 This document provides an overview of some key interfaces of the application.
+<br>
     - **Home Screen:** Displays the current balance and a list of expenses.
         <p align="center">
            <img src="images/IMG_overview_light.jpg" alt="Home Screen" width="250">
@@ -23,5 +25,5 @@ This document provides an overview of some key interfaces of the application.
         </p>
     - **Update Balance Screen:** Allows users to set or update the initial balance.
         <p align="center">
-           <img src="images/IMG_update" alt="Home Screen" width="250">
+           <img src="images/IMG_update.jpg" alt="Home Screen" width="250">
         </p>
