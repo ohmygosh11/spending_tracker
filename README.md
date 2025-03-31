@@ -12,6 +12,7 @@
 This document provides an overview of some key interfaces of the application.
     - **Home Screen:** Displays the current balance and a list of expenses.
         ![Home Screen](images/IMG_overview_light.jpg)
+        <img src="images/IMG_overview_light.jpg" alt="Home Screen" width="300">
     - **Home Screen (dark theme):**
         ![Home Screen](images/IMG_overview_dark.jpg)
     - **Add & Edit Expense Screen:** Allows users to add new expenses with details like name, date, price and description. Enables users to modify existing expenses.
